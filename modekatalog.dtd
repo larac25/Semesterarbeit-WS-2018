@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT modekatalog (produkte+)>
+<!ELEMENT produkte (artikel+)>
+<!ELEMENT artikel (kategorie+, name+, farbe+, preis+)>
+<!ATTLIST artikel
+id CDATA #REQUIRED>
+<!ELEMENT kategorie (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT farbe (#PCDATA)>
+<!ELEMENT preis (#PCDATA)>
