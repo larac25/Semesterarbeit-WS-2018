@@ -1,0 +1,52 @@
+<modekatalog>
+    <produkte>
+        <artikel id="1">
+            <kategorie>Kleider</kategorie>
+            <name>Partykleid</name>
+            <farbe>schwarz</farbe>
+            <preis>39.00</preis>
+        </artikel>
+        <artikel id="2">
+            <kategorie>Kleider</kategorie>
+            <name>Sommerkleid</name>
+            <farbe>pink</farbe>
+            <preis>25.00</preis>
+        </artikel>
+        <artikel id="3">
+            <kategorie>Hosen</kategorie>
+            <name>Jeans</name>
+            <farbe>blau</farbe>
+            <preis>49.00</preis>
+        </artikel>
+        <artikel id="4">
+            <kategorie>Hosen</kategorie>
+            <name>Stoffhose</name>
+            <farbe>grau</farbe>
+            <preis>55.00</preis>
+        </artikel>
+        <artikel id="5">
+            <kategorie>Oberteile</kategorie>
+            <name>Pullover</name>
+            <farbe>weiß</farbe>
+            <preis>19.00</preis>
+        </artikel>
+        <artikel id="6">
+            <kategorie>Oberteile</kategorie>
+            <name>T-shirt</name>
+            <farbe>rot</farbe>
+            <preis>15.00</preis>
+        </artikel>
+        <artikel id="7">
+            <kategorie>Jacken</kategorie>
+            <name>Regenjacke</name>
+            <farbe>gelb</farbe>
+            <preis>65.00</preis>
+        </artikel>
+        <artikel id="8">
+            <kategorie>Jacken</kategorie>
+            <name>Wintermantel</name>
+            <farbe>braun</farbe>
+            <preis>110.00</preis>
+        </artikel>
+    </produkte>
+</modekatalog>
